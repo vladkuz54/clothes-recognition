@@ -1,0 +1,6 @@
+torch~=2.6.0
+matplotlib~=3.10.1
+torchvision~=0.21.0
+tqdm~=4.67.1
+torchmetrics~=1.7.1
+mlxtend~=0.23.4
